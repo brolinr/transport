@@ -96,7 +96,9 @@ export default function ServicesSection() {
           hover:scale-90 duration-300
         "
       >
-        Learn more about us
+        <a href="/services">
+          Learn more about us
+        </a>
       </h6>
     </section>
   )
